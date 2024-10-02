@@ -15,4 +15,5 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Bearded Theme Vivid Black",
    "terminal.integrated.gpuAcceleration": "canvas",
+   "djlint.showInstallError": false,
 }
